@@ -2,7 +2,7 @@
 
 void prog2()
 {
-	float a, b, c, angle1, angle2, angle3, V, Pi;
+	float ab, bb, cb, angle1b, angle2b, angle3b, Vb, Pib;
 	V = 0;
 	Pi = 3.141592653589793238462643383279502884197;
 	do
